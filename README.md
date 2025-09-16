@@ -30,6 +30,7 @@
 -  **Access Tool**: SQL Server Management Studio (SSMS).
 
 - **Connection Method**: Power BI connected to SQL Server via native SQL connector (Import Mode).
+- - **Data Preparation**: Performed in SSMS using SQL queries.
 
 Data Preparation: Performed using SQL queries to create and populate the following tables:
 
