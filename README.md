@@ -56,21 +56,16 @@ The dashboard was developed to meet the following needs:
 
 | KPI                                  | Description                                   |
 |------------------|-----------------------------------------------|
-💳 Total Revenue	        | The total revenue generated from all credit card transactions.
-💰 Total Interest	        |The total interest earned from all credit card accounts.
-💵 Transaction Amount	  |The total monetary value of all processed transactions.
-🔢 Transaction Count    |	The total number of transactions processed.
-💼 Total Income	       |The total income of all customers in the database.
-📈 CSS                  |	A score representing overall Customer Satisfaction.
-KPI	Description
-Total Revenue	The total revenue generated from all credit card transactions.
-Total Interest	The total interest earned on customer balances.
-Transaction Amount	The total value of all credit card transactions.
-Transaction Count	The total number of transactions processed.
-Total Income	The total income of all customers in the database.
-CSS	Customer Satisfaction Score.
+💳 Total Revenue	        | The total revenue generated from all credit card transactions|
+💰 Total Interest	        |The total interest earned from all credit card accounts|
+💵 Transaction Amount	  |The total monetary value of all processed transactions|
+🔢 Transaction Count    |	The total number of transactions processed|
+💼 Total Income	       |The total income of all customers in the database|
+📈 CSS                  |	A score representing overall Customer Satisfaction|
 
-Export to Sheets
+---
+## 🧾Sample sql snippets:
+
 📊 Power BI Dashboard Features
 The dashboard is composed of two primary reports, each providing unique insights into the credit card business.
 
