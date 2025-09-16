@@ -44,11 +44,11 @@
 The dashboard was developed to meet the following needs:
 -  Performance & Profitability Analysis: Understanding the overall financial health of the credit card business by analyzing total revenue, interest, and transaction volume.
 
-Customer Segmentation: Identifying the most profitable customer segments based on demographics (age, education, salary), spending behavior, and card categories.
+- Customer Segmentation: Identifying the most profitable customer segments based on demographics (age, education, salary), spending behavior, and card categories.
 
-Market & Product Insights: Pinpointing top-performing geographical areas, job types, and expenditure categories to inform strategic marketing and product development.
+- Market & Product Insights: Pinpointing top-performing geographical areas, job types, and expenditure categories to inform strategic marketing and product development.
 
-Transaction Channel Optimization: Assessing the effectiveness of different transaction methods (e.g., chip vs. online) in generating revenue.
+- Transaction Channel Optimization: Assessing the effectiveness of different transaction methods (e.g., chip vs. online) in generating revenue.
 
 🔑 KPI Metrics
 KPI	Description
