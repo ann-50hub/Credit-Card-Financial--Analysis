@@ -50,7 +50,18 @@ The dashboard was developed to meet the following needs:
 
 - Transaction Channel Optimization: Assessing the effectiveness of different transaction methods (e.g., chip vs. online) in generating revenue.
 
-🔑 KPI Metrics
+
+## 🔑 KPI Metrics
+
+
+| KPI                                  | Description                                   |
+|------------------|-----------------------------------------------|
+💳 Total Revenue	        | The total revenue generated from all credit card transactions.
+💰 Total Interest	        |The total interest earned from all credit card accounts.
+💵 Transaction Amount	  |The total monetary value of all processed transactions.
+🔢 Transaction Count    |	The total number of transactions processed.
+💼 Total Income	       |The total income of all customers in the database.
+📈 CSS                  |	A score representing overall Customer Satisfaction.
 KPI	Description
 Total Revenue	The total revenue generated from all credit card transactions.
 Total Interest	The total interest earned on customer balances.
