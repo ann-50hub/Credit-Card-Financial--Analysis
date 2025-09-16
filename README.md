@@ -160,7 +160,7 @@ The dashboard is composed of two primary reports, each providing unique insights
 
  🔁Transaction Report
 
---  Revenue Drivers: The "Blue" card category generates the highest revenue and transaction volume, but it also has the highest customer acquisition cost, suggesting it's the primary product.
+-  Revenue Drivers: The "Blue" card category generates the highest revenue and transaction volume, but it also has the highest customer acquisition cost, suggesting it's the primary product.
 
 Spending Patterns: Customer spending is highest on "Bills" ($14M), followed by "Entertainment" and "Fuel," identifying the most common use cases for the credit card.
 
