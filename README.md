@@ -33,9 +33,9 @@
 -  **Data Preparation**: Performed in SSMS using SQL queries to create and populate the following tables:
 
 
--  cc_detail: Contains transaction-level data, including total spend, interest earned, and card details.
+   -  cc_detail: Contains transaction-level data, including total spend, interest earned, and card details.
 
--  cust_detail: Contains customer demographic data, such as age, gender, education, and job.
+   -  cust_detail: Contains customer demographic data, such as age, gender, education, and job.
 
 🧾 Business Problems
 The dashboard was developed to address key business questions for financial stakeholders, including:
