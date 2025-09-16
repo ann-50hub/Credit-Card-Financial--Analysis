@@ -27,8 +27,9 @@
 ## 🗂️ Source Data
 
 - **Data Source**:: A local SQL Server Database named ccdb.
+-  **Access Tool**: SQL Server Management Studio (SSMS).
 
-Connection Method: Power BI is connected to the SQL database via native SQL connector (Import Mode).
+- **Connection Method**: Power BI connected to SQL Server via native SQL connector (Import Mode).
 
 Data Preparation: Performed using SQL queries to create and populate the following tables:
 
