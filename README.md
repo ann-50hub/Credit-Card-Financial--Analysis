@@ -152,12 +152,14 @@ DELIMITER ','
 CSV HEADER;</pre>
 
 ---
-## 📊 Power BI Dashboard Features
+## 📊 Power BI Dashboard Priview:
 
 The dashboard is composed of two primary reports, each providing unique insights into the credit card business:
 
+
 <img width="1148" height="704" alt="Screenshot 2025-09-16 004515" src="https://github.com/user-attachments/assets/45660c1d-fc68-48f2-a50d-eae745d1ce31" />
 
+<img width="1158" height="696" alt="Screenshot 2025-09-16 004539" src="https://github.com/user-attachments/assets/4826bb4e-fc8a-42a3-86fa-e148c7146d89" />
 
 ## 📌 Business Insights
 
