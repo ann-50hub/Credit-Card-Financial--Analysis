@@ -1,5 +1,5 @@
-# Credit-Card-Financial-Analysis
-# 🚀 Credit Card Analysis – SQL & Power BI
+
+# 🚀 Credit Card-Financial Analysis – SQL & Power BI
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
