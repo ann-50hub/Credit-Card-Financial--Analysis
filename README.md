@@ -162,13 +162,23 @@ The dashboard is composed of two primary reports, each providing unique insights
 
 -  Revenue Drivers: The "Blue" card category generates the highest revenue and transaction volume, but it also has the highest customer acquisition cost, suggesting it's the primary product.
 
-Spending Patterns: Customer spending is highest on "Bills" ($14M), followed by "Entertainment" and "Fuel," identifying the most common use cases for the credit card.
+-  Spending Patterns: Customer spending is highest on "Bills" ($14M), followed by "Entertainment" and "Fuel," identifying the most common use cases for the credit card.
 
-High-Value Segments: Customers with a "Graduate" level of education and those who are "Self-employed" or "Businessmen" are the top revenue generators for the business.
+-  High-Value Segments: Customers with a "Graduate" level of education and those who are "Self-employed" or "Businessmen" are the top revenue generators for the business.
 
-Transaction Method: Transactions made via "Swipe" generate significantly more revenue ($35M) than transactions using a "Chip" or conducted "Online."
+-  Transaction Method: Transactions made via "Swipe" generate significantly more revenue ($35M) than transactions using a "Chip" or conducted "Online."
   
 
 
 
-🎯 Customer Engagement Insights
+🎯  Customer Report
+
+-  Geographic Focus: Texas (TX), New York (NY), and California (CA) are the top three states by revenue, highlighting them as key markets.
+
+-  Demographic Profile: The 30-40 age group is the highest contributor to revenue. Furthermore, customers in the "High" salary group contribute the most revenue, though the "Mid" salary group is also a significant contributor.
+
+-  Gender Contribution: While revenue fluctuates over the year, female customers generate more total revenue ($29.6M) than male customers ($25.8M).
+
+- Customer Loyalty & Satisfaction: The Customer Satisfaction Score (CSS) of 3.19 indicates a need for deeper analysis into the customer experience to improve satisfaction and loyalty.
+
+
