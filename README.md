@@ -1,18 +1,28 @@
 # Credit-Card-Financial-Analysis
-🚀 Credit Card Analysis – SQL & Power BI
-Interactive Power BI dashboard to analyze credit card transaction data and customer behavior using SQL-based financial data.
+#🚀 Credit Card Analysis – SQL & Power BI
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
-📊 Project Overview
-The Credit Card Analysis project leverages SQL for data processing and Power BI for building a comprehensive, interactive dashboard. The primary goal is to provide financial stakeholders with a clear, data-driven view of credit card operations, empowering them to make more informed strategic decisions regarding customer behavior and financial performance.
+---
+>**Interactive Power BI dashboard to analyze credit card transaction data and customer behavior using SQL-based financial data**
 
-🛠️ Tools & Technologies
-🛢️ SQL Server – Data querying, transformation, and cleaning.
+## 📊 Project Overview
 
-📊 Power BI – Dashboard creation and data storytelling.
+-The Credit Card Analysis project leverages SQL for data processing and Power BI for building a comprehensive, interactive dashboard. The primary goal is to provide financial stakeholders with a clear, data-driven view of credit card operations, empowering them to make more informed strategic decisions regarding customer behavior and financial performance.
+---
 
-📄 CSV – Raw transaction and customer data source.
+## 🛠️ Tools & Technologies
 
-🧬 GitHub – Version control and project portfolio.
+- 🛢️ SQL Server – Data querying, transformation, and cleaning.
+
+- 📊 Power BI – Dashboard creation and data storytelling.
+
+- 📄 CSV –  Raw transaction and customer data source.
+
+- 🧬 GitHub – Version control and project portfolio.
+
+---
+
 
 🗂️ Source Data
 Data Source: A local SQL Server Database named ccdb.
