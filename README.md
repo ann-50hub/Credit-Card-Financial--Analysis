@@ -30,7 +30,7 @@
 -  **Access Tool**: SQL Server Management Studio (SSMS).
 
 - **Connection Method**: Power BI connected to SQL Server via native SQL connector (Import Mode).
-- - **Data Preparation**: Performed in SSMS using SQL queries to create and populate the following tables:
+-  **Data Preparation**: Performed in SSMS using SQL queries to create and populate the following tables:
 
 
 - cc_detail: Contains transaction-level data, including total spend, interest earned, and card details.
