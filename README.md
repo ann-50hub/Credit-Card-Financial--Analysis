@@ -42,6 +42,7 @@
 
 
 The dashboard was developed to meet the following needs:
+
 -  Performance & Profitability Analysis: Understanding the overall financial health of the credit card business by analyzing total revenue, interest, and transaction volume.
 
 - Customer Segmentation: Identifying the most profitable customer segments based on demographics (age, education, salary), spending behavior, and card categories.
@@ -65,6 +66,7 @@ The dashboard was developed to meet the following needs:
 
 ---
 ## 🧾Sample sql snippets:
+
 
 📊 Power BI Dashboard Features
 The dashboard is composed of two primary reports, each providing unique insights into the credit card business.
