@@ -24,8 +24,9 @@
 ---
 
 
-🗂️ Source Data
-Data Source: A local SQL Server Database named ccdb.
+## 🗂️ Source Data
+
+- **Data Source**:: A local SQL Server Database named ccdb.
 
 Connection Method: Power BI is connected to the SQL database via native SQL connector (Import Mode).
 
