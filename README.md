@@ -5,10 +5,10 @@
 
 ---
 >**Interactive Power BI dashboard to analyze credit card transaction data and customer behavior using SQL-based financial data**
-
+---
 ## 📊 Project Overview
 
--The Credit Card Analysis project leverages SQL for data processing and Power BI for building a comprehensive, interactive dashboard. The primary goal is to provide financial stakeholders with a clear, data-driven view of credit card operations, empowering them to make more informed strategic decisions regarding customer behavior and financial performance.
+- The Credit Card Analysis project leverages SQL for data processing and Power BI for building a comprehensive, interactive dashboard. The primary goal is to provide financial stakeholders with a clear, data-driven view of credit card operations, empowering them to make more informed strategic decisions regarding customer behavior and financial performance.
 ---
 
 ## 🛠️ Tools & Technologies
