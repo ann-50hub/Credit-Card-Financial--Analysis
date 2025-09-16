@@ -37,29 +37,18 @@
 
    -  cust_detail: Contains customer demographic data, such as age, gender, education, and job.
 
-🧾 Business Problems
-The dashboard was developed to address key business questions for financial stakeholders, including:
+---
+## 🧾Business Problems
 
-What are the overall financial metrics of the credit card portfolio?
 
-How is revenue distributed across different card categories and customer segments?
+The dashboard was developed to meet the following needs:
+-  Performance & Profitability Analysis: Understanding the overall financial health of the credit card business by analyzing total revenue, interest, and transaction volume.
 
-What are the spending patterns of customers based on their demographics (age, gender, education)?
+Customer Segmentation: Identifying the most profitable customer segments based on demographics (age, education, salary), spending behavior, and card categories.
 
-What is the most common expenditure type, and how does it contribute to revenue?
+Market & Product Insights: Pinpointing top-performing geographical areas, job types, and expenditure categories to inform strategic marketing and product development.
 
-What are the top-performing states and job categories in terms of revenue?
-
-🛠️ Data Preparation with SQL
-Raw data from the provided CSV files was cleaned and transformed in SQL Server with the following steps:
-
-A new database, ccdb, was created.
-
-Two tables, cc_detail and cust_detail, were created with appropriate data types.
-
-Data from the CSV files (credit_card.csv, customer.csv, cc_add.csv, cust_add.csv) was imported into the respective tables using the COPY command.
-
-Standardized date formats were handled during the import process.
+Transaction Channel Optimization: Assessing the effectiveness of different transaction methods (e.g., chip vs. online) in generating revenue.
 
 🔑 KPI Metrics
 KPI	Description
