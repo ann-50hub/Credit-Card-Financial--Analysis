@@ -151,31 +151,24 @@ FROM 'D:\cust_add.csv'
 DELIMITER ',' 
 CSV HEADER;</pre>
 
-📊 Power BI Dashboard Features
+---
+## 📊 Power BI Dashboard Features
+
 The dashboard is composed of two primary reports, each providing unique insights into the credit card business.
 
-1. Credit Card Transaction Report
-This report provides a detailed view of financial performance and transactional behavior.
+## 📌 Business Insights
 
-KPIs: Displays high-level metrics for Total Revenue, Total Interest, Transaction Amount, and Transaction Count.
+ 🔁Transaction Report
 
-Qtr Revenue & Transaction Count: A time-series chart that visualizes the performance of revenue and transaction count across different quarters.
+-- Revenue Drivers: The "Blue" card category generates the highest revenue and transaction volume, but it also has the highest customer acquisition cost, suggesting it's the primary product.
 
-Card Category & Revenue Analysis: A table and visuals breaking down revenue, interest earned, and annual fees by card categories (Blue, Silver, Gold, Platinum).
+Spending Patterns: Customer spending is highest on "Bills" ($14M), followed by "Entertainment" and "Fuel," identifying the most common use cases for the credit card.
 
-Spending Behavior: Bar charts analyze revenue by Expenditure Type, Education Level, and Customer Job.
+High-Value Segments: Customers with a "Graduate" level of education and those who are "Self-employed" or "Businessmen" are the top revenue generators for the business.
 
-Customer Acquisition Cost: A table showing the cost to acquire a customer for each card category.
+Transaction Method: Transactions made via "Swipe" generate significantly more revenue ($35M) than transactions using a "Chip" or conducted "Online."
+  
 
-2. Credit Card Customer Report
-This report focuses on customer demographics and their influence on financial metrics.
 
-KPIs: Includes high-level metrics for Total Revenue, Total Interest, Total Income, and a Customer Satisfaction Score (CSS).
 
-Revenue vs. Gender: A line chart comparing revenue trends between male and female customers over time.
-
-Top Customer Demographics: A set of charts that break down revenue by key customer attributes, including Age Group, Salary Group, Dependent Count, Marital Status, and Education Level.
-
-Top 5 States: A bar chart identifying the top five states generating the most revenue.
-
-How To Convert Bank And Credit Card Statements To Excel/CSV This video is relevant as it provides guidance on how to convert bank statements to CSV, which is a key step in data preparation for this project.
+🎯 Customer Engagement Insights
